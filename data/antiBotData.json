@@ -1,0 +1,250 @@
+{
+    "A Ma Maniere": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Aime Leon Dore": {
+           "Bot Protection": "✅",
+           "Checkpoint": "✅", 
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "APB Store": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Atmos NYC": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Bape": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "BBC": {
+           "Bot Protection": "❌",
+           "Checkpoint": "❌" ,
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       }, 
+       "Blends": {
+           "Bot Protection": "❌",
+           "Checkpoint": "❌" ,
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       },
+       "Bodega": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Concepts": {
+           "Bot Protection": "✅",
+           "Checkpoint": "✅", 
+           "Proxy Protection": "✅",
+           "Accounts": "✅"
+       },
+       "Deadstock CA": {
+           "Bot Protection": "❌",
+           "Checkpoint": "❌" ,
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       },
+       "DSMJP": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "DSML": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "DSMNY": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "DSMSG": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "DTLR": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       },
+       "Extra Butter": {
+           "Bot Protection": "✅",
+           "Checkpoint": "✅", 
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       },
+       "Fear of God": {
+           "Bot Protection": "❌",
+           "Checkpoint": "❌" ,
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       },
+       "Funko": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Hannon": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "✅"
+       }, 
+       "Haven Shop": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Human Made": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Jimmy Jazz": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       },
+       "Kith": {
+           "Bot Protection": "✅",
+           "Checkpoint": "✅", 
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Lace Up NYC": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       },
+       "Lapstone Hammer": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Notre": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "NRML CA": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Obey": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Oneness": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "OVO": {
+           "Bot Protection": "❌",
+           "Checkpoint": "❌", 
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       },
+       "Packer Shoes": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Palace": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Patta NL": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Saint Alfred": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Shoe Gallery": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "ShopNiceKicks": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Sneaker Politics": {
+           "Bot Protection": "✅",
+           "Checkpoint": "✅", 
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Social Status": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Sole Fly": {
+           "Bot Protection": "❌",
+           "Checkpoint": "❌" ,
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       }, 
+       "Stay Rooted": {
+           "Bot Protection": "❌",
+           "Checkpoint": "❌" ,
+           "Proxy Protection": "❌",
+           "Accounts": "❌"
+       }, 
+       "Travis Scott": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Trophy Room": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Undefeated": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "✅"
+       },
+       "Union LA": {
+           "Bot Protection": "✅",
+           "Checkpoint": "✅", 
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Unknown": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       },
+       "Wish ATL": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }, 
+       "Xhibition": {
+           "Bot Protection": "✅",
+           "Proxy Protection": "✅",
+           "Accounts": "❌"
+       }
+}

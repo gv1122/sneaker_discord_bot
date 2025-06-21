@@ -1,0 +1,15 @@
+{
+    "bot_token": "BOT_TOKEN_HERE",
+    "bot_prefix": ".",
+    "api-key": "API_KEY_HERE",
+    "twitter_consumer_key": "",
+    "twitter_secret_key": "",
+    "twitter_access_key": "",
+    "twitter_access_secret": "",
+    "base_api_url": "https://maps.googleapis.com/maps/api/geocode/json?",
+    "embed_img": "EMBED_IMG_HERE",
+	"log_channel": 123456789012345678,
+	"antiBotRole": 123456789012345678,
+	"antiBotChannel": 123456789012345678,
+    "embed_color": 15154519
+}
